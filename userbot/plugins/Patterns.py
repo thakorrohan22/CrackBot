@@ -117,8 +117,8 @@ async def _(event):
             "Panga😡",
             "To",
             "Ho Jayega",
-            "Panga😒",
-            "Crackexy Se Agar Liya Panga😡 To Ho Jayega Panga😒"
+            "Danga😒",
+            "Crackexy Se Agar Liya Panga😡 To Ho Jayega Danga😒"
         ]
 
         for i in animation_ttl:
@@ -142,19 +142,19 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "mepro":
+    if input_str == "love":
 
         await event.edit(input_str)
 
         animation_chars = [
-            "EvErYbOdY",
-            "Was",
-            "Pro" ,
-            "uNtiL",
-            "i",
-            "aRriVed",
-            "😈",
-            "EvErYbOdY was Pro uNtiL i aRriVed 😈"
+            "I🔥",
+            "Luvvvvvvvvvvvvvvvvvvvv😍😍😍😍",
+            "Youuuuuuuuuuuuuuuuuuuuuuuuuu🥰" ,
+            "Tooooooo",
+            "ooooooooooooooo",
+            "Myyyyyyyyyyyy😍😍",
+            "Jaaaannnnnnnnnñ😍😍😍😍😍😍😍",
+            "I🔥 Luvvvvvvvvvvvvvvvvv😍😍😍😍 Youuuuuuuuuuuuuuuuuuuuuuuuuuuuuu😍 Toooooooooo Myyyyyyyyyyyyyyyyyy😍😍😍😍 Jaannnnnnnnnnnnnnn😍😍😍😍😍😍"
         ]
 
         for i in animation_ttl:
