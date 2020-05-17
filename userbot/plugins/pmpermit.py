@@ -10,17 +10,17 @@ PM_WARNS = {}
 PREV_REPLY_MESSAGE = {}
 
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet nibba, check pinned message in** @TeleBotHelp"
-USER_BOT_WARN_ZERO = "`You were spamming my master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` **Now GTFO, i'm playing minecraft** "
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet 🤣🤣"
+USER_BOT_WARN_ZERO = "`You were spamming my master's inbox, that's why you have been blocked by my master's userbot.` **Now GTFO, i'm playing minecraft** "
 USER_BOT_NO_WARN = ("[...........███ ]▄▄▄▄▄▃ \n..▂▄▅█████▅▄▃▂\n[███████████████]\n◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤](tg://user?id=719195224)\n\n"
-                    "`Hello, this is CrackBot Security Service. This is an automated message in `"
+                    "`Hello, this is CrackBot Security . This is an automated message in `"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
                     "Do not spam here, else you will be blocked automatically.`\n\n"
                     "** Send** `/start` ** to access the available options.**")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
-    @command(pattern="^.approve ?(.*)")
+    @command(pattern="^.app ?(.*)")
     async def approve_p_m(event):
         if event.fwd_from:
            return
@@ -50,7 +50,7 @@ if Var.PRIVATE_GROUP_ID is not None:
             if not pmpermit_sql.is_approved(chat.id):
                 if not chat.id in PM_WARNS:
                     pmpermit_sql.approve(chat.id, "outgoing")
-                    bruh = "__User Approved Becoz You Messaged Him  >~<__"
+                    bruh = "__User Approved Becoz Of Outgoing Msg  >~<__"
                     rko = await borg.send_message(event.chat_id, bruh)
                     await asyncio.sleep(3)
                     await rko.delete()
@@ -71,7 +71,7 @@ if Var.PRIVATE_GROUP_ID is not None:
                 await asyncio.sleep(3)
                 await event.client(functions.contacts.BlockRequest(chat.id))
 
-    @command(pattern="^.disapprove ?(.*)")
+    @command(pattern="^.dis ?(.*)")
     async def approve_p_m(event):
         if event.fwd_from:
             return
