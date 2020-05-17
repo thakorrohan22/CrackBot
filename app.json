@@ -4,9 +4,9 @@
 
  "name": "TeleBot",
 
- "description": "Userbot created by a Aditya\n\n join https://t.me/TeleBotHelpChat for any problems or support",
+ "description": "Userbot created by a Crackexy",
 
- "logo": "https://telegra.ph/file/f1143e4dd5a4c699e3614.jpg",
+ "logo": "https://telegra.ph/CRACKEXY-OFFICIAL-LOGO-05-17.jpg",
 
  "keywords": [
 
@@ -22,7 +22,7 @@
 
  ],
 
- "repository": "https://github.com/xditya/TeleBot/",
+ "repository": "https://github.com/Crackexy/CrackBot",
 
  "website": "#TODO",
 
@@ -127,7 +127,7 @@
 
    "description": "Makes your acc and bot stable",
 
-   "value": "719195224",
+   "value": "",
 
    "required": false
 
@@ -205,7 +205,7 @@
   
   "MAX_FLOOD_IN_P_M_s": {
       "description": "Maximum number of messages a person can send in pm before getting blocked. Value must be an integer. 3 by default.",
-      "value": "3",
+      "value": "5",
       "required": false
     },
     "OCR_SPACE_API_KEY": {
@@ -223,7 +223,7 @@
 
    "description": "Required for Correct Time on autopic/get time. Know your timezone from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
 
-   "value": "",
+   "value": "Asia/Kolkata",
 
    "required": false
 
