@@ -1,6 +1,6 @@
 # FORK AND STAR BEFORE INSTALLING
 # Installing
-Join https://t.me/TeleBotHelp for updates and tuts
+contact t.me/CRACKEXY for further help.
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -9,7 +9,7 @@ Join https://t.me/TeleBotHelp for updates and tuts
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/xditya/TeleBot
+git clone https://github.com/Crackexy/CrackBot
 cd TeleBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
