@@ -43,7 +43,7 @@ async def _(event):
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
             "`Hacking... 100%\n█████████HACKED███████████ `",
-            "`Targeted Account Hacked...\n\nSAY SORRY TO REMOVE THIS HACK"
+            "`TARGET HAS BEEN HACKED...\n\nEITHER ACCEPT DEAD BOYS LOVE OR GIVE A KISS EMOJI TO DEAD BOY TO REMOVE THIS HACK"
         ]
 
         for i in animation_ttl:
