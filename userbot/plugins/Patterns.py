@@ -1,7 +1,7 @@
 """Available Commands:
 
-.kavya
-.akku
+.cia
+.python
 .panga
 .love
 
@@ -37,15 +37,15 @@ async def _(event):
         await event.edit(input_str)
 
         animation_chars = [
-            "Crackexy",
+            "DEADBOY",
             "Is",
-            "Best",
-            "Friend" ,
+            "BIGGGGESST❤️",
+            "FAN" ,
             "Of",
-            "Kavya",
-            "❣️",
+            "CIARA",
+            "❤️❤️❤️",
             "Swear it is the Truth🔥",
-            "Crackexy Is Best Friend Of Kavya ❣️\n Swear it is the Truth🔥"
+            "DEADBOY IS BIGGGGESST❤️ FAN OF CIARA ❤️❤️❤️\n Swear it is the Truth🔥"
         ]
 
         for i in animation_ttl:
@@ -74,15 +74,15 @@ async def _(event):
         await event.edit(input_str)
 
         animation_chars = [
-            "Crackexy",
+            "DeadBoy",
             "Only",
             "Loves❣️",
-            "Akku🔥" ,
+            "DeadGirl🔥" ,
             "Untill",
             "He",
             "Dies",
             "😁",
-            "Crackexy Only Loves❣️ Akku🔥 Untill He Dies 😁"
+            "DeadBoy Only Loves❣️ DeadGirl🔥 Untill He Dies 😁"
         ]
 
         for i in animation_ttl:
@@ -111,14 +111,14 @@ async def _(event):
         await event.edit(input_str)
 
         animation_chars = [
-            "Crackexy",
+            "DeadBoy",
             "Se Agar",
             "Liya" ,
             "Panga😡",
             "To",
             "Ho Jayega",
             "Danga😒",
-            "Crackexy Se Agar Liya Panga😡 To Ho Jayega Danga😒"
+            "DeadBoy Se Agar Liya Panga😡 To Ho Jayega Danga😒"
         ]
 
         for i in animation_ttl:
@@ -148,13 +148,11 @@ async def _(event):
 
         animation_chars = [
             "I🔥",
-            "Luvvvvvvvvvvvvvvvvvvvv😍😍😍😍",
-            "Youuuuuuuuuuuuuuuuuuuuuuuuuu🥰" ,
-            "Tooooooo",
-            "ooooooooooooooo",
-            "Myyyyyyyyyyyy😍😍",
-            "Jaaaannnnnnnnnñ😍😍😍😍😍😍😍",
-            "I🔥 Luvvvvvvvvvvvvvvvvv😍😍😍😍 Youuuuuuuuuuuuuuuuuuuuuuuuuuuuuu😍 Toooooooooo Myyyyyyyyyyyyyyyyyy😍😍😍😍 Jaannnnnnnnnnnnnnn😍😍😍😍😍😍"
+            "Luvvv😍😍😍😍",
+            "Youuuuuuuu🥰" ,
+            "Myyyyyyyy😍😍",
+            "Jaaaannnnnnnnnñ😍😍😍😍😍😍😍
+            "I🔥 Luvvv😍😍😍😍 Youuuuuuuu😍 Myyyyyyyy😍😍😍😍 Jaannnnnnnn😍😍😍😍😍😍"
         ]
 
         for i in animation_ttl:
