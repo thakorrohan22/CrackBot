@@ -13,7 +13,7 @@ PREV_REPLY_MESSAGE = {}
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet 🤣🤣"
 USER_BOT_WARN_ZERO = "`You were spamming my master's inbox, that's why you have been blocked by my master's userbot.` **Now GTFO, i'm playing minecraft** "
 USER_BOT_NO_WARN = ("[...........███ ]▄▄▄▄▄▃ \n..▂▄▅█████▅▄▃▂\n[███████████████]\n◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤](tg://user?id=719195224)\n\n"
-                    "`Hello, this is CrackBot Security . This is an automated message in `"
+                    "`Hello, this is DEADBOY'S BodyGuard. This is an automated message in `"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
                     "Do not spam here, else you will be blocked automatically.`\n\n"
                     "** Send** `/start` ** to access the available options.**")
