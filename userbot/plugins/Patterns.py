@@ -1,7 +1,7 @@
 """Available Commands:
 
 .cia
-.python
+.love
 .panga
 .love
 
@@ -69,7 +69,7 @@ async def _(event):
 
     input_str = event.pattern_match.group(1)
 
-    if input_str == "akku":
+    if input_str == "love":
 
         await event.edit(input_str)
 
@@ -151,7 +151,7 @@ async def _(event):
             "Luvvv😍😍😍😍",
             "Youuuuuuuu🥰" ,
             "Myyyyyyyy😍😍",
-            "Jaaaannnnnnnnnñ😍😍😍😍😍😍😍
+            "Jaaaannnnnnnnnñ😍😍😍😍😍😍😍",
             "I🔥 Luvvv😍😍😍😍 Youuuuuuuu😍 Myyyyyyyy😍😍😍😍 Jaannnnnnnn😍😍😍😍😍😍"
         ]
 
